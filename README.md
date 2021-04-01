@@ -1,3 +1,6 @@
-# Lab-1-demo
+# Breakfast items
 
-Hello World
+I had the following for breakfast:
+* Cereal
+* coffee
+  * with cream and sugar
